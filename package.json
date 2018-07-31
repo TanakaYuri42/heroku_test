@@ -8,6 +8,10 @@
     "lint": "vue-cli-service lint",
     "start": "node server.js"
   },
+  "engines": {
+    "yarn": "1.7.0",
+    "node": "10.7.0"
+  },
   "dependencies": {
     "express": "^4.16.3",
     "vue": "^2.5.16"
